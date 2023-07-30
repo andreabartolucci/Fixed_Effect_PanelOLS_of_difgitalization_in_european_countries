@@ -1,1 +1,4 @@
 # Fixed_Effect_PanelOLS_of_difgitalization_in_european_countries
+
+This Jupyter notebook is a data analysis project that involves loading and processing various datasets using Python libraries such as pandas, numpy, geopandas, seaborn, matplotlib, geoplot, shapefile, cartopy, and descartes.
+The goal is to investigate investiagte digitalization in Europe using panel data and a fixed effect estimator. One interesting feature of the script is its use of Geopandas and Geoplot to create choropleth maps of the data. Choropleth maps are a powerful tool for visualizing spatial data and can help to reveal patterns and trends that might not be apparent from other types of plots. By using these libraries, the script is able to create interactive maps that allow the user to explore the data in a more intuitive way. Hypothesis testing and robustness checks are also performed.
